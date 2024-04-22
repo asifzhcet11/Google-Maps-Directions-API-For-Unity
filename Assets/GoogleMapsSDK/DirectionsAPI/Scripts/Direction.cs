@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 using UnityEngine;
 
-namespace Unity.Google.Maps.Directions
+namespace Vodafone.Maps
 {
     public class DirectionsResponse
     {
